@@ -9,4 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- 2024-Q4 wrap: utility helpers, type guards, and operational docs.
+
+### Added
+
 - Initial scaffold from the design hand-off.
